@@ -1,6 +1,6 @@
 import { ApiService } from "./ApiService";
 
-const endpoint = "to-do-list";
+const endpoint = "to-do-list/";
 
 export const ToDoService = {
   list() {

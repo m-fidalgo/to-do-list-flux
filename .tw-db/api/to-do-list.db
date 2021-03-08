@@ -1,14 +1,5 @@
-{"description":"Tarefa 1","isChecked":false,"_id":"CnbnyrcANqU8dr9a"}
-{"description":"Tarefa 2","isChecked":false,"_id":"BeAmBhEWEIX18gUa"}
-{"description":"Tarefa 3","isChecked":false,"_id":"DwicqzpkuMId31EF"}
-{"description":"Tarefa 4","isChecked":false,"_id":"2AZjodGOzLGytwNi"}
-{"description":"Tarefa 5","isChecked":false,"_id":"PGofZmbnQHw2vZHE"}
-{"description":"Tarefa 6","isChecked":false,"_id":"ksaIW5DD6SxHz2Rd"}
-{"$$deleted":true,"_id":"2AZjodGOzLGytwNi"}
-{"$$deleted":true,"_id":"BeAmBhEWEIX18gUa"}
-{"$$deleted":true,"_id":"CnbnyrcANqU8dr9a"}
-{"description":"Tarefa 1","isChecked":false,"_id":"DwicqzpkuMId31EF"}
-{"description":"Tarefa 2","isChecked":false,"_id":"PGofZmbnQHw2vZHE"}
-{"description":"Tarefa 3","isChecked":false,"_id":"ksaIW5DD6SxHz2Rd"}
-{"description":"Tarefa 2","isChecked":true,"_id":"PGofZmbnQHw2vZHE"}
-{"$$deleted":true,"_id":"PGofZmbnQHw2vZHE"}
+{"description":"grapefruit","isChecked":false,"_id":"SdCIaN5l3t9HPY99"}
+{"description":"Tarefa 3","isChecked":false,"_id":"erpHXJKOZdxTr3SX"}
+{"description":"grapefruitnnn","isChecked":false,"_id":"YvAem9BFcKwincGc"}
+{"description":"grapefruit","isChecked":true,"_id":"SdCIaN5l3t9HPY99"}
+{"$$deleted":true,"_id":"SdCIaN5l3t9HPY99"}
