@@ -44,6 +44,7 @@ function clearAll() {
 
   done.forEach((item) => removeItem(item.id));
   _toDoList = toDo;
+  return _toDoList;
 }
 
 //método público
